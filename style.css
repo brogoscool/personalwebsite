@@ -1,0 +1,168 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat'
+
+}
+
+.skills {
+    margin-top: 200px
+
+}
+
+.contact-me {
+    margin-top: 200px
+
+}
+
+.h1tag {
+    margin: 0 auto 0 auto;
+    width: 20%;
+    font-family: 'Courgette', cursive;
+    color: #867070;
+    font-size: 400%
+}
+
+.top-container {
+    background: #F5EBEB;
+    padding-top: 220px;
+}
+
+.middle-container {
+    background: white;
+    margin-bottom: 50px
+
+}
+
+.bottom-container {
+    padding: 10px;
+    background: #675D50
+
+}
+
+.par {
+    margin: 0 auto 0 auto;
+    width: 14.5rem;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    font-family: 'Montserrat'
+
+}
+
+
+hr {
+    background-color: white;
+    border-style: dotted none none;
+    border-color: #B09B71;
+    border-width: 4px;
+    height: 0px;
+    width: 5%
+
+}
+
+.bottom-cloud {
+    position: absolute
+}
+
+.top-cloud {
+    position: absolute;
+    top: 15%;
+    right: 25%;
+
+}
+
+.mount {
+    width: 45%;
+
+}
+
+.zagolovok {
+    font-size: 170%;
+}
+
+.footer-link {
+    color: #867070
+
+}
+
+h1 {
+    font-family: 'Courgette', cursive;
+    color: #867070;
+
+}
+
+h2 {
+    font-family: 'Courgette', cursive;
+    color: #867070;
+    font-size: 200%
+
+}
+
+h3 {
+    font-family: 'Kaushan Script', cursive;
+    color: #867070;
+    font-size: 150%
+}
+
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 30px
+}
+
+.eng {
+    margin-bottom: auto;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.skill-row {
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+
+}
+
+.final {
+    font-family: 'Montserrat';
+    font-size: 20px
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Georgia;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 23px;
+   background-color: #F3DEBA;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   border: solid white 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #F7E7CC;
+   border: solid #F3DEBA 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.sur {
+    color: white
+}
+
+.footer-link {
+    color: white
+}
+
